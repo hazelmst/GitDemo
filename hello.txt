@@ -8,3 +8,5 @@ Good Morning!
 Hello, Git!
 Hi, GitHub.
 Good Morning!
+Hello, Git!
+Good Afternoon!
